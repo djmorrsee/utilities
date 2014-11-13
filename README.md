@@ -1,4 +1,4 @@
-utilities
+Utilities
 =========
 
-A repo for misc utility scripts 
+A Repo Containing Simple Templates and Utility Scripts
